@@ -6,7 +6,7 @@
 ### 🎓 Estudante de Desenvolvimento de Sistemas
 
 <img src="https://img.shields.io/badge/SENAI(DS)-%2B1200h-red">
-<img src="https://img.shields.io/badge/SENAI-ServiceNow-brightgreen">
+<img src="https://img.shields.io/badge/ServiceNow-32H-brightgreen">
 <img src="https://img.shields.io/badge/(DS)Banco%20de%20Dados-blue">
 <img src="https://img.shields.io/badge/(DS)Sistemas%20Operacionais-orange">
 
@@ -17,15 +17,15 @@
 ## <h2>📚 Formação</h2>
 
 <img src="https://img.shields.io/badge/SENAI-%2B1200h-red">
-<img src="https://img.shields.io/badge/ServiceNow-32h-brightgreen">
+<img src="https://img.shields.io/badge/ServiceNow-SENAI-brightgreen">
 
 - Analista e Desenvolvedor de Sistemas (SENAI | +1200h)
 - Plataforma ServiceNow University (SENAI | 32h)
   
 ## <h2>💻 Conhecimentos</h2>
 
-<img src="https://img.shields.io/badge/Banco%20de%20Dados-blue">
-<img src="https://img.shields.io/badge/Sistemas%20Operacionais-orange">
+<img src="https://img.shields.io/badge/(DS)Banco%20de%20Dados-blue">
+<img src="https://img.shields.io/badge/(DS)Sistemas%20Operacionais-orange">
 
 - Banco de Dados
 - Sistemas Operacionais
