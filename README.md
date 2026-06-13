@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=250&section=header&text=Nicolas%20Gonçalves%20Feitosa%20de%20Jesus&fontSize=45&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Nicolas%20Gonçalves%20Feitosa%20de%20Jesus&fontSize=40" />
 
 ## Olá, sou o Nicolas, bem vindo ao meu perfil
 
@@ -33,5 +33,6 @@
 - 🏓 Pong Auto
 - ☄️ Asteroids Auto
 - Trabalho/Github
+- Repositório de Códigos Feitos por mim (Códigos em Portugol e em C)
 
 📫 Sempre em busca de novos conhecimentos na área de tecnologia.
