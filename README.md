@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=250&color=gradient&text=Nicolas%20Gonçalves%20Feitosa%20de%20Jesus&fontSize=40" />
+<img src="https://capsule-render.vercel.app/api?type=shark&height=300&color=gradient&text=Nicolas%20Gonçalves%20Feitosa%20de%20Jesus&fontSize=40" />
 
 ## Olá, sou o Nicolas, bem vindo ao meu perfil
 
