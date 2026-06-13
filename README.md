@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Bem%20Vindos!!!%20Sinta-se%20a%20%Vontade&fontSize=40&fontAlignY=40" />
   
 ## Olá, sou o Nicolas, bem vindo ao meu perfil 
-## Aqui falo sobre os meus conhecimentos 👇🏼
+# Aqui falo sobre os meus conhecimentos 👇🏼
 
 ### 🎓 Estudante de Desenvolvimento de Sistemas
 
