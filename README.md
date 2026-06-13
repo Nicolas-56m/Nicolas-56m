@@ -1,5 +1,4 @@
-# Olá, eu sou Nicolas Gonçalves 👋
-
+<h1 align="center">👋 Nicolas Gonçalves</h1>👋
 🎓 Estudante de Desenvolvimento de Sistemas
 
 📚 Formação
