@@ -1,4 +1,5 @@
-<h1 align="center">👋 Nicolas Gonçalves</h1>👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Nicolas%20Gonçalves&fontSize=50&fontColor=ffffff" />
+# Olá, sou o Nicolas Gonçalves, bem vindo ao meu perfil
 🎓 Estudante de Desenvolvimento de Sistemas
 
 📚 Formação
