@@ -5,10 +5,10 @@
 
 ### 🎓 Estudante de Desenvolvimento de Sistemas
 
-<img src="https://img.shields.io/badge/SENAI-%2B1200h-red">
-<img src="https://img.shields.io/badge/ServiceNow-32h-brightgreen">
-<img src="https://img.shields.io/badge/Banco%20de%20Dados-blue">
-<img src="https://img.shields.io/badge/Sistemas%20Operacionais-orange">
+<img src="https://img.shields.io/badge/SENAI(DS)-%2B1200h-red">
+<img src="https://img.shields.io/badge/SENAI-ServiceNow-32h-brightgreen">
+<img src="https://img.shields.io/badge/(DS)Banco%20de%20Dados-blue">
+<img src="https://img.shields.io/badge/(DS)Sistemas%20Operacionais-orange">
 
 </div>
 
