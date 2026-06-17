@@ -1,11 +1,8 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Bem%20Vindos!!!%20Sinta-se%20a%20%Vontade&fontSize=40&fontAlignY=40" />
 
-<p align="center">
-  <img src="banner.png" width="100%">
-</p>
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/16ddb49c-42fe-4ea4-97fc-1718139dfe48" />
 
-  
 # Olá, sou o Nicolas, bem vindo ao meu perfil! 
 ## Aqui falo sobre os meus conhecimentos 👇🏼
 
