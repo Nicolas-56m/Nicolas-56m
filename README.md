@@ -33,7 +33,7 @@
 - Banco de Dados
 - Sistemas Operacionais
 - ServiceNow
-- Códigos em Portugol e em C
+- Códigos em Portugol, em C, HTML, CSS e JavaScript
   
 </div>
 
