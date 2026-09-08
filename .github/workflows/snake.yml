@@ -2,12 +2,15 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */24 * * *"
+    - cron: "*/5 * * * *" # Tenta rodar a cada 5 minutos
   workflow_dispatch:
   push:
     branches:
       - main
       - master
+
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -27,7 +30,7 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Push to Output Branch
-        uses: crazy-max/ghaction-github-pages@v4
+        uses: crazy-max/ghaction-github-pages@v5
         with:
           target_branch: output
           build_dir: dist
