@@ -42,9 +42,9 @@
 - 🐍 Cobra Auto
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.io">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.io">
-  <img alt="github contribution grid snake animation" src="https://github.io">
+  <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
+  <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
+  <img alt="github contribution grid snake animation" src="https://githubusercontent.com">
 </picture>
 
 - 🏓 Pong Auto
