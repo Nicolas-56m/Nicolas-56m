@@ -40,13 +40,12 @@
 ## 🚀 Projetos
 
 - 🐍 Cobra Auto
+ 
+<img src="https://raw.githubusercontent.com/Nicolas-56m/Nicolas-56m/output/github-snake-dark.svg">
+ 
 - 🏓 Pong Auto
 - ☄️ Asteroids Auto
 - Trabalho/Github
 - Repositório de Códigos Feitos por mim (Códigos em Portugol e em C)
 
 📫 Sempre em busca de novos conhecimentos na área de tecnologia.
-
-## 🐍 Minhas contribuições
-
-<img src="https://raw.githubusercontent.com/Nicolas-56m/Nicolas-56m/output/github-snake-dark.svg">
