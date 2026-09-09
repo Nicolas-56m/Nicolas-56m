@@ -43,9 +43,12 @@
  
 <img src="https://raw.githubusercontent.com/Nicolas-56m/Nicolas-56m/output/github-snake-dark.svg">
  
-- 🏓 Pong Auto
-
-![Ping Pong Contribution Animation](https://raw.githubusercontent.com/seu-usuario/seu-usuario/output/github-contribution-grid-table-tennis.svg)
+<div align="center">
+  - 🏓 Pong Auto
+  <a href="https://github.com/seu-usuario">
+    <img src="https://readme-pong.vercel.app/api/pong?user=seu-usuario&theme=dark" alt="Ping Pong Game" />
+  </a>
+</div>
 
 - ☄️ Asteroids Auto
 - Trabalho/Github
