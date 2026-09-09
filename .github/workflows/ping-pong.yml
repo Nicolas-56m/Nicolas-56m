@@ -2,22 +2,29 @@ name: Generate Ping Pong Game
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Executa diariamente à meia-noite
-  workflow_dispatch: # Permite rodar manualmente na aba Actions
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      
+      - uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '16'
+
       - name: Generate Ping Pong Animation
         uses: s2r3/table-tennis-action@v1
+        env:
+          NODE_OPTIONS: --openssl-legacy-provider
         with:
           github_user_name: ${{ github.repository_owner }}
 
       - name: Push SVG to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
