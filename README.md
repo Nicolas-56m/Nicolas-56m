@@ -44,6 +44,9 @@
 <img src="https://raw.githubusercontent.com/Nicolas-56m/Nicolas-56m/output/github-snake-dark.svg">
  
 - 🏓 Pong Auto
+
+![Ping Pong Contribution Animation](https://raw.githubusercontent.com/seu-usuario/seu-usuario/output/github-contribution-grid-table-tennis.svg)
+
 - ☄️ Asteroids Auto
 - Trabalho/Github
 - Repositório de Códigos Feitos por mim (Códigos em Portugol e em C)
