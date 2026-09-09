@@ -37,15 +37,14 @@
   
 </div>
 
-## 🚀 Projetos
+## 📁Projetos
 
 - 🐍 Cobra Auto
  
 <img src="https://raw.githubusercontent.com/Nicolas-56m/Nicolas-56m/output/github-snake-dark.svg">
 
 - ☄️ Asteroids Auto
-- 
 - Trabalho/Github
-- Repositório de Códigos Feitos por mim (Códigos em Portugol e em C)
+- Repositório de Códigos Feitos por mim: Códigos em Portugol, em C. Sites com Java Script e Linguagem de Marcação, HTML, e Linguagem de Estilo, CSS. (Ainda Editando...).
 
 📫 Sempre em busca de novos conhecimentos na área de tecnologia.
