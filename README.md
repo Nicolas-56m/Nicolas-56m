@@ -42,15 +42,9 @@
 - 🐍 Cobra Auto
  
 <img src="https://raw.githubusercontent.com/Nicolas-56m/Nicolas-56m/output/github-snake-dark.svg">
- 
-<div align="center">
-  - 🏓 Pong Auto
-  <a href="https://github.com/seu-usuario">
-    <img src="https://readme-pong.vercel.app/api/pong?user=seu-usuario&theme=dark" alt="Ping Pong Game" />
-  </a>
-</div>
 
 - ☄️ Asteroids Auto
+- 
 - Trabalho/Github
 - Repositório de Códigos Feitos por mim (Códigos em Portugol e em C)
 
