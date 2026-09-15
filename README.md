@@ -45,8 +45,12 @@
 
 - ☄️ Asteroids Auto
 - Trabalho/Github
-- Repositório de Códigos e Sites feitos por mim: 
-Códigos em Portugol e em C. 
-Sites com código em Java Script, Linguagem de Marcação, HTML, e Linguagem de Estilo, CSS. (Ainda Editando...).
+- Meu Repositório de Projetos feitos por mim (ainda Editando...).
+### Lógicas e Algoritmos: 
+- Códigos em Portugol (fase de aprendizado e lógica).
+### Programas estruturados em C
+- Criação de páginas com HTML5 e CSS3.
+### Desenvolvimento Web:
+- Lógicas e interatividade com JavaScript.
 
-📫 Sempre em busca de novos conhecimentos na área de tecnologia.
+### 📫 Sempre em busca de novos conhecimentos na área de tecnologia.
