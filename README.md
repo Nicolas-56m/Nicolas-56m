@@ -46,11 +46,12 @@
 - ☄️ Asteroids Auto
 - Trabalho/Github
 - Meu Repositório de Projetos feitos por mim (ainda Editando...).
+
 ### Lógicas e Algoritmos: 
-- Códigos em Portugol (fase de aprendizado e lógica).
-### Programas estruturados em C
-- Criação de páginas com HTML5 e CSS3.
+- Códigos em Portugol e Programas estruturados em C (fase de aprendizado e lógica).
+- 
 ### Desenvolvimento Web:
+- Criação de páginas com HTML5 e CSS3.
 - Lógicas e interatividade com JavaScript.
 
 ### 📫 Sempre em busca de novos conhecimentos na área de tecnologia.
