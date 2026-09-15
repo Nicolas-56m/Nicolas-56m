@@ -45,7 +45,8 @@
 
 - ☄️ Asteroids Auto
 - Trabalho/Github
-- Meu Repositório de Projetos feitos por mim (ainda Editando...).
+- 
+## Meu Repositório de Projetos de códigos feitos por mim (ainda Editando...).
 
 ### Lógicas e Algoritmos: 
 - Códigos em Portugol e Programas estruturados em C (fase de aprendizado e lógica).
