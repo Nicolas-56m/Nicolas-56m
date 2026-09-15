@@ -49,7 +49,7 @@
 
 ### Lógicas e Algoritmos: 
 - Códigos em Portugol e Programas estruturados em C (fase de aprendizado e lógica).
-- 
+  
 ### Desenvolvimento Web:
 - Criação de páginas com HTML5 e CSS3.
 - Lógicas e interatividade com JavaScript.
