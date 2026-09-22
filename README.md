@@ -56,5 +56,3 @@
 - Lógicas e interatividade com JavaScript.
 
 ### 📫 Sempre em busca de novos conhecimentos na área de tecnologia.
-
-https://share.google/QzcO8PosUNLG2uZoH
