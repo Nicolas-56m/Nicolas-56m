@@ -45,8 +45,8 @@
 
 - ☄️ Asteroids Auto
 - Trabalho/Github
-- 
-## Meu Repositório de Projetos de códigos feitos por mim (ainda Editando...).
+
+## Meus Repositórios de Projetos de códigos feitos por mim (ainda Editando...).
 
 ### Lógicas e Algoritmos: 
 - Códigos em Portugol e Programas estruturados em C (fase de aprendizado e lógica).
@@ -56,5 +56,3 @@
 - Lógicas e interatividade com JavaScript.
 
 ### 📫 Sempre em busca de novos conhecimentos na área de tecnologia.
-
-https://share.google/p5cKqdqJv7RLUWuA9
